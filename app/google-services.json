@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681248447894",
+    "project_id": "app-kotlin-c6dfd",
+    "storage_bucket": "app-kotlin-c6dfd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681248447894:android:93a26901293ef19f8811b7",
+        "android_client_info": {
+          "package_name": "dev.marcos.myapplication2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0SDCE-yiSJM_z06u1WwX8dJZfsmDDjLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
